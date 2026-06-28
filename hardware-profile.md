@@ -54,7 +54,3 @@ To check the status and performance of the hardware components mentioned above, 
 ### 4. DirectX Diagnostic Tool (`dxdiag`)
 * **Usage:** Accessed by typing `dxdiag` in the Run dialog (`Win + R`).
 * **Role:** Specifically diagnoses display and graphics card (GPU) properties, showing exact VRAM allocation and video drivers.
-
-### 5. Command Prompt (CMD) Hardware Commands
-* **Usage:** Typing specific administrative commands like `wmic` or `systeminfo`.
-* **Role:** Fetches precise hardware details in pure text format, which is useful for automation or system scripts.
