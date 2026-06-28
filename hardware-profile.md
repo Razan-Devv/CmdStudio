@@ -9,7 +9,7 @@ Understanding computer hardware is essential for any IT or computer science stud
 
 Here are the primary hardware components that make a computer function:
 
-### 1. Motherboard (اللوحة الأم)
+### 1. Motherboard 
 * **What it is:** The main circuit board of the computer.
 * **Role:** It acts as the backbone that connects all components together (CPU, RAM, Hard Drives, and GPU), allowing them to communicate with each other.
 
