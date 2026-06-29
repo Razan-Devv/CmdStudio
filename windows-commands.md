@@ -40,16 +40,7 @@ These commands are used to diagnose connection issues and check the system netwo
 * **What it does:** Sends small packets of data to a specific IP or server to check if it is reachable and measures the speed of the connection.
 * **Example:** `ping google.com` checks if your internet is working properly.
 
----
-
-## Part 3: Why Programmers Prefer CLI over GUI
-
-1. **Speed:** Executing a quick command text is much faster than clicking through multiple graphical menus.
-2. **Automation:** Programmers can write scripts (like `.bat` or `.sh` files) that run 20 CMD commands in a row automatically, saving hours of manual work.
-3. **Server Management:** Most cloud servers (like AWS or Linux deployments) do not have a screen or a mouse (GUI); you can only control them using terminal text commands.
----
-
-## Part 4: Git Version Control Commands
+## Part 3: Git Version Control Commands
 
 Git is a command-line tool used for Version Control. It helps developers track changes in their code, save project history, and upload files to GitHub.
 
